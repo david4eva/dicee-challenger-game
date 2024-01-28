@@ -16,7 +16,8 @@ Contributing
 Dual-Player: Settle all challenges between two opponents.
 
 ## Play the game
-Refresh the website to display the new winner.
+1. Navigate to the website – <a href="https://deploy-preview-1--dicee-challenger-game.netlify.app/">Dicee Challenger</a>
+2. Refresh the website to display the winner.
 
 ## Built With
 <ul>
