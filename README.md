@@ -1,6 +1,6 @@
 # RollMaster: Dice Challenger
 
-Welcome to RollMaster: Dice Challenger, an exhilarating dice-based game you can use to settle all disputes by deciding a winner.
+Welcome to Dicee Challenger, an exhilarating dice-based game you can use to settle all disputes by deciding a winner.
 
 ## Table of Contents
 Introduction
@@ -13,9 +13,10 @@ Built With
 Contributing
 
 ## Key Features
-Dual-Player: Settle all challenges between two parties by assigning the first party to Player 1 and the second party to Player 2.
+Dual-Player: Settle all challenges between two opponents.
 
 ## Play the game
+Refresh the website to display the new winner.
 
 ## Built With
 <ul>
