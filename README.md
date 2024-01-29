@@ -1,4 +1,4 @@
-# RollMaster: Dice Challenger
+# RollMaster: Dicee Challenger
 
 Welcome to Dicee Challenger, an exhilarating dice-based game you can use to settle all disputes by deciding a winner.
 
