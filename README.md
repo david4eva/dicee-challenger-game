@@ -35,8 +35,8 @@ Dual-Player: Settle all challenges between two opponents.
     <li>Implement your changes and test thoroughly to ensure a smooth gaming experience.</li>
     <li>Submit a pull request detailing your contribution. We appreciate well-documented pull requests that explain the purpose and impact of your changes</li>
 </ul>
-### Areas to Contribute:
 
+### Areas to Contribute:
 ### Gameplay Enhancements:
 <ul>
     <li>Implement functionality for multi-player support.</li>
