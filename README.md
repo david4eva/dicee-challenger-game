@@ -8,7 +8,7 @@ Welcome to Dicee Challenger, an exhilarating dice-based game you can use to sett
 - [Play the Game](#play-the-game)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [Getting Started](#gettings-started)
+- [Getting Started](#getting-started)
 - [Gameplay Enhancements](#gameplay-enhancements)
 
 ## Key Features
