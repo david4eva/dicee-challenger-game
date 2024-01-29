@@ -5,12 +5,11 @@ Welcome to Dicee Challenger, an exhilarating dice-based game you can use to sett
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key Features](#key-features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Gameplay](#gameplay])
+- [Play the Game](#play-the-game)
 - [Built With](#built-with)
 - [Contributing](#contributing)
+- [Getting Started](#gettings-started)
+- [Gameplay Enhancements](#gameplay-enhancements)
 
 ## Key Features
 Dual-Player: Settle all challenges between two opponents.
@@ -27,7 +26,7 @@ Dual-Player: Settle all challenges between two opponents.
 </ul>
 
 ## Contributing
-🚀 We welcome contributions from the community to make Dice Challenger even more exciting! Whether you're a developer, designer, or passionate gamer, there are several ways you can contribute to our project.
+🚀 We welcome contributions from the community to make Dice Challenger even more exciting! Whether you're a developer, designer, or passionate gamer, you can contribute to our project in several ways.
 
 ## Getting Started:
 
