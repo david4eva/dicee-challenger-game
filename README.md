@@ -3,14 +3,14 @@
 Welcome to Dicee Challenger, an exhilarating dice-based game you can use to settle all disputes by deciding a winner.
 
 ## Table of Contents
-Introduction
-Key Features
-Getting Started
-Prerequisites
-Installation
-Gameplay
-Built With
-Contributing
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Gameplay](#gameplay])
+- [Built With](#built-with)
+- [Contributing](#contributing)
 
 ## Key Features
 Dual-Player: Settle all challenges between two opponents.
