@@ -33,16 +33,16 @@ Dual-Player: Settle all challenges between two opponents.
     <li>Fork the repository and clone it to your local machine.</li>
     <li>Create a new branch for your contribution: git checkout -b feature/your-feature.</li>
     <li>Implement your changes and test thoroughly to ensure a smooth gaming experience.</li>
-<li>Submit a pull request detailing your contribution. We appreciate well-documented pull requests that explain the purpose and impact of your changes</li>
+    <li>Submit a pull request detailing your contribution. We appreciate well-documented pull requests that explain the purpose and impact of your changes</li>
 </ul>
-Areas to Contribute:
+###Areas to Contribute:
 
-## Gameplay Enhancements: 
+###Gameplay Enhancements:
 <ul>
     <li>Implement functionality for multi-player support.</li>
-<li>Bug Fixes: Help identify and fix any bugs or issues you discover.</li>
-<li>Documentation: Contribute to improving our README or adding documentation where needed.</li>
-<li>Feedback: Share your feedback, suggestions, or ideas to help us make the game even better.</li>
+    <li>Bug Fixes: Help identify and fix any bugs or issues you discover.</li>
+    <li>Documentation: Contribute to improving our README or adding documentation where needed.</li>
+    <li>Feedback: Share your feedback, suggestions, or ideas to help us make the game even better.</li>
 </ul>
 
 Thank you for your contributions! 🎲🎮
