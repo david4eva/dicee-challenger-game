@@ -37,9 +37,11 @@ Submit a pull request detailing your contribution. We appreciate well-documented
 Areas to Contribute:
 
 ## Gameplay Enhancements: 
-Implement functionality for multi-player support.
-Bug Fixes: Help identify and fix any bugs or issues you discover.
-Documentation: Contribute to improving our README or adding documentation where needed.
-Feedback: Share your feedback, suggestions, or ideas to help us make the game even better.
+<ul>
+    <li>Implement functionality for multi-player support.</li>
+<li>Bug Fixes: Help identify and fix any bugs or issues you discover.</li>
+<li>Documentation: Contribute to improving our README or adding documentation where needed.</li>
+<li>Feedback: Share your feedback, suggestions, or ideas to help us make the game even better.</li>
+</ul>
 
 Thank you for your contributions! 🎲🎮
