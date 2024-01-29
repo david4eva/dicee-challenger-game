@@ -28,12 +28,13 @@ Dual-Player: Settle all challenges between two opponents.
 ## Contributing
 🚀 We welcome contributions from the community to make Dice Challenger even more exciting! Whether you're a developer, designer, or passionate gamer, you can contribute to our project in several ways.
 
-## Getting Started:
-
-Fork the repository and clone it to your local machine.
-Create a new branch for your contribution: git checkout -b feature/your-feature.
-Implement your changes and test thoroughly to ensure a smooth gaming experience.
-Submit a pull request detailing your contribution. We appreciate well-documented pull requests that explain the purpose and impact of your changes.
+### Getting Started:
+<ul>
+    <li>Fork the repository and clone it to your local machine.</li>
+    <li>Create a new branch for your contribution: git checkout -b feature/your-feature.</li>
+    <li>Implement your changes and test thoroughly to ensure a smooth gaming experience.</li>
+<li>Submit a pull request detailing your contribution. We appreciate well-documented pull requests that explain the purpose and impact of your changes</li>
+</ul>
 Areas to Contribute:
 
 ## Gameplay Enhancements: 
